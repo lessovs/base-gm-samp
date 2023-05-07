@@ -8,7 +8,7 @@ In this game mode base you will only find the systems that have been deemed "nec
 2. Saving and loading player data (MySQL)
 
 
-# IMPORTANT!
+IMPORTANT!
 
 This game mode is still under development, check the updates made and read their changes.
 
