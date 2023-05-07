@@ -22,5 +22,3 @@ You will be able to see the updates, as well as participate in voting for new th
 You will be able to interact with our community, through our discord server.
 
 https://discord.gg/W3FeXHncpP
-
-test
