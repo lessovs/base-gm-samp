@@ -1,6 +1,7 @@
 /*
 	Gamemode - v 0.1
 	Developed by lessov
+	UPDATES COMING SOON....
 */
 
 //
